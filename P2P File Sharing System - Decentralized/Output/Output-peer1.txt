@@ -1,0 +1,121 @@
+Enter server_port: 
+8081
+Host port number :8081
+Trying to connect......
+{1=localhost:8081, 2=localhost:8082, 3=localhost:8083, 4=localhost:8084, 5=localhost:8085, 6=localhost:8086, 7=localhost:8087, 8=localhost:8089}
+ID : 1 HostInfo : localhost:8081 HostIp : localhost Port : 8081
+ID : 2 HostInfo : localhost:8082 HostIp : localhost Port : 8082
+Connection Failed, All peer server has not been started yet.
+ Wait for other socket connection...... 
+ Retrying in 20 Seconds..............
+Connection estabralished from/127.0.0.1and port8081
+ID : 3 HostInfo : localhost:8083 HostIp : localhost Port : 8083
+ID : 4 HostInfo : localhost:8084 HostIp : localhost Port : 8084
+ID : 5 HostInfo : localhost:8085 HostIp : localhost Port : 8085
+ID : 6 HostInfo : localhost:8086 HostIp : localhost Port : 8086
+ID : 7 HostInfo : localhost:8087 HostIp : localhost Port : 8087
+ID : 8 HostInfo : localhost:8089 HostIp : localhost Port : 8089
+8
+Connection estabralished from/127.0.0.1and port8081
+Connection estabralished from/127.0.0.1and port8081
+Connection estabralished from/127.0.0.1and port8081
+Connection estabralished from/127.0.0.1and port8081
+Connection estabralished from/127.0.0.1and port8081
+Connection estabralished from/127.0.0.1and port8081
+Connection estabralished from/127.0.0.1and port8081
+Please enter Shared Directory Name : 
+peer1
+Value : localhost:8084
+randhost : 4 Raplication Host : localhost:8084
+# of files registered: 102
+Register Response time: 1356090000ns
+Peer : 8081
+Options: 
+1 - Register File into DHT 
+2 - Search File into DHT 
+3 - Obtain File 
+4 - Exit
+
+File Transfered
+3
+Enter File Name to Download from avilable peers : 
+400000.txt
+Server-6
+Below Peer have 400000.txt in their shared directory : 
+localhost:8084
+localhost:8087
+Peer List :
+localhost:8084
+localhost:8087
+ObtainHost : 4
+Downloading for file 400000.txt started 
+File Downloaded
+Obtain Response time for one file: 412316000ns
+Peer : 8081
+Options: 
+1 - Register File into DHT 
+2 - Search File into DHT 
+3 - Obtain File 
+4 - Exit
+3
+Enter File Name to Download from avilable peers : 
+200000.txt
+Server-8
+Below Peer have 200000.txt in their shared directory : 
+localhost:8082
+localhost:8086
+Peer List :
+localhost:8082
+localhost:8086
+ObtainHost : 2
+Downloading for file 200000.txt started 
+File Downloaded
+Obtain Response time for one file: 62100000ns
+Peer : 8081
+Options: 
+1 - Register File into DHT 
+2 - Search File into DHT 
+3 - Obtain File 
+4 - Exit
+2
+Enter File Name to search for avilable peers : 
+400001.txt
+Server-7
+Below Peer have 400001.txt in their shared directory : 
+localhost:8084
+localhost:8087
+Register Response time for one file: 3627000ns
+Peer : 8081
+Options: 
+1 - Register File into DHT 
+2 - Search File into DHT 
+3 - Obtain File 
+4 - Exit
+3
+Enter File Name to Download from avilable peers : 
+600000.txt
+Server-4
+Below Peer have 600000.txt in their shared directory : 
+localhost:8086
+localhost:8087
+localhost:8087
+localhost:8084
+localhost:8089
+localhost:8081
+Peer List :
+localhost:8086
+localhost:8087
+localhost:8087
+localhost:8084
+localhost:8089
+localhost:8081
+ObtainHost : 6
+Downloading for file 600000.txt started 
+File Downloaded
+Obtain Response time for one file: 17162379000ns
+Peer : 8081
+Options: 
+1 - Register File into DHT 
+2 - Search File into DHT 
+3 - Obtain File 
+4 - Exit

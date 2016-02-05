@@ -1,0 +1,5 @@
+Enter 1 to Start Server or 2 to start Client
+Please enter Port No : 8888
+Server running on IP : 192.168.0.23.......... Port No : 8888Trying to connect
+The connection from/192.168.0.23:52337
+The connection from/192.168.0.23:5233
